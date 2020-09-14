@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **aik0aaac/aik0aaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,13 +13,84 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://raw.githubusercontent.com/aik0aaac/aik0aaac/master/profile-summary-card-output/nord_dark/0-profile-details.svg)
+# Aikのページ
+プロフィールページ作ってみました。これ素敵ですね…。  
+Aikと書いて「アイク」と呼びます。某ファイ○ーエムブレムの方とは無関係です。
 
+技術ブログはこちら: https://aik0aaat.hatenadiary.jp/
+全然更新してないQiitaはこちら: https://qiita.com/aik0aaac
+技術Twitterアカはこちら: https://twitter.com/aik0aaat
 
-![](https://raw.githubusercontent.com/aik0aaac/aik0aaac/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
+## 🎨お絵かきしてるよ
+技術系とは無関係ですが、お絵かきもやってます。  
+よかったらみてやってください|дﾟ)つ
 
+- Twitter: https://twitter.com/aik0aaac
+- pixiv: https://www.pixiv.net/users/16287487
+- BOOTH: https://aik0aaad.booth.pm/
+- 趣味ブログ: https://aik0aaac.hatenablog.com/
 
-![](https://raw.githubusercontent.com/aik0aaac/aik0aaac/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
+# Githubプロフィール
+![Githubサマリー](https://raw.githubusercontent.com/aik0aaac/aik0aaac/master/profile-summary-card-output/nord_dark/0-profile-details.svg)
 
+![Github Myリポジトリ情報](https://raw.githubusercontent.com/aik0aaac/aik0aaac/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
+![Most Commit Language](https://raw.githubusercontent.com/aik0aaac/aik0aaac/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
+![Github Status](https://raw.githubusercontent.com/aik0aaac/aik0aaac/master/profile-summary-card-output/nord_dark/3-stats.svg)
 
-![](https://raw.githubusercontent.com/aik0aaac/aik0aaac/master/profile-summary-card-output/nord_dark/3-stats.svg)
+# ⚡知ってるorかじったことのある技術分野
+## 業務経験あり
+### 言語
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![C#](https://img.shields.io/badge/-C＃-239120?style=flat-square&logo=c-sharp)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+### フレームワーク
+![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
+![Vuetify](https://img.shields.io/badge/-Vuetify-black?style=flat-square&logo=vuetify)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-black?style=flat-square)
+
+### ライブラリ
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat-square)
+
+### ミドルウェア
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+
+### クラウドサービス
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+
+### コード管理&バージョン管理ツール
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
+### OS
+![Windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat-square)
+![MacOS](https://img.shields.io/badge/-MacOS-F2F2F2.svg?style=flat-square)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat-square)
+![CentOS](https://img.shields.io/badge/-CentOS-0078D6.svg?logo=centos&style=flat-square)
+
+### エディタ・IDE
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat)
+![Vim](https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat)
+
+### コミュニケーションツール
+
+## 個人で触ったことあり
+### フレームワーク
+![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000.svg?logo=ruby-on-rails&style=flat)
+
+### ミドルウェア
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
+### クラウドサービス
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+
+### コード管理&バージョン管理ツール
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
