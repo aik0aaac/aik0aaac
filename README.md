@@ -86,6 +86,7 @@ Aikと書いて「アイク」と呼びます。某ファイ○ーエムブレ�
 
   - その他:
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops)
+![Backlog](https://img.shields.io/badge/-Backlog-44C79A?style=flat-square)
 
 - 個人で触ったことあり
   - フレームワーク: 
