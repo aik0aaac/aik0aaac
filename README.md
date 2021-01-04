@@ -40,8 +40,8 @@ Aikと書いて「アイク」と呼びます。某ファイ○ーエムブレ�
 # ⚡知ってるorかじったことのある技術分野
 - 業務経験あり
   - 言語: 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black.svg?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black.svg?logo=typescript&style=flat)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![C#](https://img.shields.io/badge/-C＃-239120?style=flat-square&logo=c-sharp)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -49,17 +49,17 @@ Aikと書いて「アイク」と呼びます。某ファイ○ーエムブレ�
 
   - フレームワーク: 
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
-![Vuetify](https://img.shields.io/badge/-Vuetify-black?style=flat-square&logo=vuetify)
+![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=vuetify)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-black?style=flat-square&logo=nuxt.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-black?style=flat-square)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-582B8C?style=flat-square)
 
   - ライブラリ: 
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat-square)
 
   - ミドルウェア: 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 
   - クラウドサービス: 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
@@ -68,17 +68,24 @@ Aikと書いて「アイク」と呼びます。某ファイ○ーエムブレ�
   - コード管理&バージョン管理ツール: 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![BitBucket](https://img.shields.io/badge/-BitBucket-0052CC?style=flat-square&logo=bitbucket)
 
   - OS: 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat-square)
-![MacOS](https://img.shields.io/badge/-MacOS-F2F2F2.svg?style=flat-square)
+![MacOS](https://img.shields.io/badge/-MacOS-black.svg?style=flat-square&logo=apple)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat-square)
 ![CentOS](https://img.shields.io/badge/-CentOS-0078D6.svg?logo=centos&style=flat-square)
 
   - エディタ・IDE: 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat)
 ![Vim](https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat)
+
+  - コミュニケーション管理: 
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-black?style=flat-square&logo=microsoft-teams)
+
+  - その他:
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops)
 
 - 個人で触ったことあり
   - フレームワーク: 
@@ -92,3 +99,9 @@ Aikと書いて「アイク」と呼びます。某ファイ○ーエムブレ�
 
   - コード管理&バージョン管理ツール: 
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
+  - その他: 
+![esa.io](https://img.shields.io/badge/-esa.io-0a9b94?style=flat-square)
+![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion)
+![Evernote](https://img.shields.io/badge/-Evernote-black?style=flat-square&logo=evernote)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello)
