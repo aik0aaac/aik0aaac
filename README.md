@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Aikのページ
 プロフィールページ作ってみました。これ素敵ですね…。  
-Aikと書いて「アイク」と呼びます。某ファイ○ーエムブレムの方とは無関係です。
+Aikと書いて「アイク」と呼びます。
 
 - 技術ブログはこちら: https://aik0aaat.hatenadiary.jp/
 - Qiitaはこちら(技術ブログの方がメインなのでこちらではあまり活動してないです): https://qiita.com/aik0aaac
@@ -23,7 +23,7 @@ Aikと書いて「アイク」と呼びます。某ファイ○ーエムブレ�
 
 ## 🎨お絵かきしてるよ
 技術系とは無関係ですが、お絵かきもやってます。  
-よかったらみてやってください|дﾟ)つ
+よかったらみてやってください。
 
 - Twitter: https://twitter.com/aik0aaac
 - pixiv: https://www.pixiv.net/users/16287487
